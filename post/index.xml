@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projets on Reda Kaoua</title>
+    <link>https://RKaoua.github.io/Portfolio/post/</link>
+    <description>Recent content in Projets on Reda Kaoua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://RKaoua.github.io/Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[en cours] eC2F V2: Prévision de la consommation d&#39;électricité en France</title>
+      <link>https://RKaoua.github.io/Portfolio/post/projet003/</link>
+      <pubDate>Thu, 18 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://RKaoua.github.io/Portfolio/post/projet003/</guid>
+      <description>Le projet «eC2F» revisité avec l&amp;rsquo;ajout de nouvelles variables tel que : la température, les vacances scolaires et les jours fériés.</description>
+    </item>
+    
+    <item>
+      <title>KickStarter : Prédiction du succès d’une campagne de financement participatif</title>
+      <link>https://RKaoua.github.io/Portfolio/post/projet002/</link>
+      <pubDate>Wed, 10 Mar 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://RKaoua.github.io/Portfolio/post/projet002/</guid>
+      <description>NLe projet consiste en la mise en place d&amp;rsquo;un système de classification des projets qui ont réussi/échoué sur la plateforme participatif &lt;a href=&#34;https://www.kickstarter.com/&#34;&gt;KickStarter&lt;/a&gt;, et prédire le succès d’une campagne de financement participatif.</description>
+    </item>
+    
+    <item>
+      <title>eC2F : Prévision de la consommation d&#39;électricité en France</title>
+      <link>https://RKaoua.github.io/Portfolio/post/projet001/</link>
+      <pubDate>Thu, 18 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://RKaoua.github.io/Portfolio/post/projet001/</guid>
+      <description>Le projet «eC2F» (Pour Electrical Consumption Forcating in France) est un projet réalisé dans le cadre du projet fil rouge de ma formation de Data Analyst, il a pour but d&amp;rsquo;analyser et de prédire la consommation électrique en France, afin d&amp;rsquo;adapter la production et limiter les pertes.</description>
+    </item>
+    
+  </channel>
+</rss>
